@@ -5,7 +5,7 @@ import (
 
 	"google.golang.org/genai"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
 )
 
 // These tests cover the conversion code only; they make no network calls.

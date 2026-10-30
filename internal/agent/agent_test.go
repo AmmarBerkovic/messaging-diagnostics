@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm/llmtest"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm/llmtest"
 )
 
 // stubTools records calls and returns a fixed result per tool name.

@@ -1,4 +1,4 @@
-module github.com/ammarberkovic/messaging-diagnostics
+module github.com/AmmarBerkovic/messaging-diagnostics
 
 go 1.24.3
 

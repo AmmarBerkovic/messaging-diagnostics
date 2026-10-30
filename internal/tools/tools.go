@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/kb"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/store"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/kb"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/store"
 )
 
 // Tool pairs the description the model sees with the code that runs.

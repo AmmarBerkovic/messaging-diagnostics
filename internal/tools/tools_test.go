@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/seed"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/store"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/seed"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/store"
 )
 
 var testNow = time.Date(2026, 10, 29, 12, 0, 0, 0, time.UTC)

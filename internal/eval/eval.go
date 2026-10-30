@@ -7,8 +7,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/agent"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/store"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/agent"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/store"
 )
 
 // Result is the outcome for one incident.

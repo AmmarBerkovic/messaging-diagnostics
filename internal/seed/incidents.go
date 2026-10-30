@@ -3,8 +3,8 @@ package seed
 import (
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/kb"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/store"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/kb"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/store"
 )
 
 // Each method plants one incident into g.msgs and returns its ground truth.

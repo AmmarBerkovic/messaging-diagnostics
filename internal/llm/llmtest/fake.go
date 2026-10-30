@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
 )
 
 // RespondFunc decides the fake model's reply. question is the first user

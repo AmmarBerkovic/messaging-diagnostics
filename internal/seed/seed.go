@@ -12,7 +12,7 @@ import (
 	"math/rand/v2"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/store"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/store"
 )
 
 // Config controls generation. The same Config always yields the same data.

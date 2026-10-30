@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/kb"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/kb"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
 )
 
 // DefaultMaxSteps bounds the number of model turns per question. Each turn

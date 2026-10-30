@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
 )
 
 func TestFormatCall(t *testing.T) {

@@ -5,12 +5,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/agent"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm/llmtest"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/seed"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/store"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/tools"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/agent"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm/llmtest"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/seed"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/store"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/tools"
 )
 
 func TestRunScoresAgainstGroundTruth(t *testing.T) {

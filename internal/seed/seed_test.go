@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/kb"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/kb"
 )
 
 var testNow = time.Date(2026, 10, 29, 12, 0, 0, 0, time.UTC)

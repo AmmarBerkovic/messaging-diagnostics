@@ -17,13 +17,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/agent"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/eval"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/gemini"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/seed"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/store"
-	"github.com/ammarberkovic/messaging-diagnostics/internal/tools"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/agent"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/eval"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/gemini"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/seed"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/store"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/tools"
 )
 
 const usage = `Messaging Diagnostics Assistant (all data is synthetic)

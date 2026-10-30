@@ -11,7 +11,7 @@ import (
 
 	"google.golang.org/genai"
 
-	"github.com/ammarberkovic/messaging-diagnostics/internal/llm"
+	"github.com/AmmarBerkovic/messaging-diagnostics/internal/llm"
 )
 
 // DefaultModel is a stable Flash model that the Gemini API offers on its
